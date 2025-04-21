@@ -1,6 +1,6 @@
 # Spotify-Audio-Features-EDA-Visualization-1921-2020-
 
-This project explores over 160,000 songs from Spotify, spanning nearly 100 years of music (1921–2020). Using audio feature data like *danceability*, *energy*, *valence*, and more, I analyze and visualize how music has evolved. I used subset of the dataset as it consumes large amount of RAM.You can find the dataset here: https://drive.google.com/file/d/1obFQguszIRCsjNLn2CxxtUQUd73V0ro4/view?usp=sharing 
+This project explores over 160,000 songs from Spotify, spanning nearly 100 years of music (1921–2020). Using audio feature data like *danceability*, *energy*, *valence*, and more, I analyze and visualize how music has evolved. You can find the dataset here: https://drive.google.com/file/d/1obFQguszIRCsjNLn2CxxtUQUd73V0ro4/view?usp=sharing 
 
 ## 📊 What’s Inside?
 
