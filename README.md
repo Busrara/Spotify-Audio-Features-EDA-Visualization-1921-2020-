@@ -35,6 +35,7 @@ You can find the visualization in this repository.
 - NumPy  
 
 ---
+I highly suggest you read my Medium writing for better explanation: https://medium.com/@busraracoban/decoding-spotify-hits-a-visual-exploration-of-music-trends-from-1921-to-2020-40b1390213e3 
 
 ## 🚀 How to Run
 
